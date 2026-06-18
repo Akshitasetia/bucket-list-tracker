@@ -41,7 +41,9 @@ bucket-list-tracker/
 ├── main.py
 ├── goals.json
 ├── README.md
-└── screenshot.png
+├── screenshot1.png
+├── screenshot2.png
+└── screenshot3.png
 ```
 
 ---
@@ -51,7 +53,7 @@ bucket-list-tracker/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/bucket-list-tracker.git
+git clone https://github.com/Akshitasetia/bucket-list-tracker.git
 ```
 
 2. Open the project folder
@@ -68,12 +70,16 @@ python main.py
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshots
 
-Replace the image below with your own project screenshot.
+### 🧾 Goals Management
+![Goals View](./screenshot1.png)
 
-```md
-![Bucket List Tracker](screenshot.png)
+### 📊 Progress Tracking
+![Progress Report](./screenshot2.png)
+
+### 📂 Category Statistics
+![Category Stats](./screenshot3.png)
 ```
 
 ---
