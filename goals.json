@@ -1,0 +1,52 @@
+[
+    {
+        "goal": "Solve DSA problems",
+        "completed": false,
+        "category": "Career"
+    },
+    {
+        "goal": "Python ",
+        "completed": true,
+        "category": "Career"
+    },
+    {
+        "goal": "Build 5 projects",
+        "completed": false,
+        "category": "Career"
+    },
+    {
+        "goal": "Go to Paris",
+        "completed": false,
+        "category": "Travel"
+    },
+    {
+        "goal": "Go to NYC",
+        "completed": false,
+        "category": "Travel"
+    },
+    {
+        "goal": "Go to disney land",
+        "completed": false,
+        "category": "Travel"
+    },
+    {
+        "goal": "2",
+        "completed": false,
+        "category": "Go to London"
+    },
+    {
+        "goal": "go for a walk",
+        "completed": true,
+        "category": "Fitness"
+    },
+    {
+        "goal": "Exercise regularly",
+        "completed": false,
+        "category": "Fitness"
+    },
+    {
+        "goal": "Start photography course",
+        "completed": false,
+        "category": "personal growth"
+    }
+]
