@@ -80,7 +80,7 @@ python main.py
 
 ### 📂 Category Statistics
 ![Category Stats](./screenshot3.png)
-```
+
 
 ---
 
